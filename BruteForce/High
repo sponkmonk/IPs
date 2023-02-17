@@ -1,8 +1,8 @@
 #
 #        File: BruteForce/High
 # Description: Connected to my honeypots (More than 20, but less than 100)
-#    IP Count: 703
-#     Updated: 2/17/2023  09:48 (9:48 AM CST)
+#    IP Count: 705
+#     Updated: 2/17/2023  10:51 (10:51 AM CST)
 #     Creator: ShadowWhisperer
 #         URL: https://raw.githubusercontent.com/ShadowWhisperer/IPs/master/BruteForce/High
 #
@@ -85,6 +85,7 @@
 45.79.181.223
 45.88.67.119
 45.93.93.23
+45.154.3.16
 46.101.97.107
 47.74.96.31
 47.87.219.103
@@ -560,6 +561,7 @@
 178.72.77.45
 178.72.91.172
 178.141.12.171
+178.141.76.211
 178.141.153.101
 179.43.142.131
 179.43.176.48
